@@ -1,0 +1,23 @@
+{
+  "name": "dynamic-webpage",
+  "version": "1.0.0",
+  "description": "A node js project for meeting schedule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/rajveer870/schedule-meeting.git)"
+  },
+  "keywords": [
+    "first",
+    "nodejs",
+    "project"
+  ],
+  "author": "Anshu kumar",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
